@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahu Sardar</h1>
-<h3 align="center">a B.Tech student passionate about Data Science and Machine Learning.</h3>
+<h3 align="center">a B.Tech student passionate about Data Science and Web devolpment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahusardar-py&label=Profile%20views&color=0e75b6&style=flat" alt="shahusardar-py" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Web dev**
+- 🌱 I’m currently learning **Data Science and Web devolpment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShahuSardar-py](https://github.com/ShahuSardar-py)
 
