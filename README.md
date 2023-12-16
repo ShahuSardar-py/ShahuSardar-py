@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahusardar-py&label=Profile%20views&color=0e75b6&style=flat" alt="shahusardar-py" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Data Science and Web dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShahuSardar-py](https://github.com/ShahuSardar-py)
 
